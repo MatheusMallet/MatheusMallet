@@ -1,4 +1,6 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mallet-zn&theme=darkhub&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div align="left" >
   <H1> Stack </H1>
