@@ -4,10 +4,10 @@
   
 <div align="left" >
   <H1> Stack </H1>
-  <img src="https://skillicons.dev/icons?i=php,typescript,golang,nest,nodejs,react,html,css,solidity," />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,php,golang,react,html,css,tailwind" />
 
   <H1>Tools</H1>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,rabbitmq,git,github,linux,aws,postman,vscode," />
+  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,mysql,postgres,kubernetes,git,github,linux,aws,cloudflare,express,vite,postman,redis,vscode" />
 
 </div>
  
